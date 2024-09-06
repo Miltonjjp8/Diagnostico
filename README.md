@@ -1,0 +1,2 @@
+# Diagnostico
+Diagnostico comandos git
